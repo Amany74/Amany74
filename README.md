@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Amany74
+- 👋 Hi, I’m Amany Ahmed
 - 👀 I’m interested in machine learning and web Development
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects web development
 - 📫 How to reach me via amanyaahmedd@gmail.com
 
 <!---
