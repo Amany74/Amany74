@@ -1,5 +1,4 @@
-<html>
-  <head>
+
     <style>
       .grid-container {
         display: grid;
@@ -24,8 +23,6 @@
         height: 100px;
       }
     </style>
-  </head>
-  <body>
     <div class="grid-container">
       <div class="grid-item">
         <a href="https://github.com/Amany74/Bakery">
@@ -94,5 +91,4 @@
         </a>
       </div>
     </div>
-  </body>
-</html>
+
